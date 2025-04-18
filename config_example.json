@@ -1,0 +1,6 @@
+{
+  "openai_api_key": "",
+  "max_tokens": 190000,
+  "window_size": 10,
+  "brave_search_api_key": ""
+}
